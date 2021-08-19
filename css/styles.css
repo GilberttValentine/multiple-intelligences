@@ -28,7 +28,6 @@ body {
   padding: 0px 60px;
 }
 
-
 main .container {
   background-color: #f5f5f5;
   display: flex;
@@ -42,7 +41,7 @@ main .container>* {
 
 main .container .steps {
   display: block;
-  padding: 88px 80px 0 80px;
+  padding: 80px;
   overflow-y: auto;
 }
 
@@ -114,4 +113,8 @@ main .container .intelligence-representation object {
 
 /* Small screens */
 
-@media all and (max-width: 500px) {}
+@media all and (max-width: 500px) {
+  .questions {
+    padding-right: 20px;
+  }
+}
