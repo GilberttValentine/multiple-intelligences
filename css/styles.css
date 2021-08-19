@@ -1,0 +1,117 @@
+@import url('fonts.css');
+@import url('buttons.css');
+@import url('form.css');
+@import url('results.css');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  padding-top: 50px;
+  background-color: #f5f5f5;
+  overflow-x: hidden;
+}
+
+.nav {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  top: 0;
+  width: 100%;
+  max-height: 50px;
+  background: #FFFFFF;
+  box-shadow: 0px 5px 24px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  padding: 0px 60px;
+}
+
+
+main .container {
+  background-color: #f5f5f5;
+  display: flex;
+  flex-flow: row wrap;
+  min-height: calc(92.5vh - 70px);
+}
+
+main .container>* {
+  flex: 1 50%;
+}
+
+main .container .steps {
+  display: block;
+  padding: 88px 80px 0 80px;
+  overflow-y: auto;
+}
+
+main .container .steps p {
+  font-size: 15px;
+  text-align: justify;
+  padding: 30px 0;
+}
+
+main .container .intelligence-representation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main .container .intelligence-representation object {
+  width: 50%;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-start;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2f2f37;
+  color: white;
+}
+
+.footer>.container {
+  font-size: 13px;
+  padding: 20px 60px;
+}
+
+.footer>.container a {
+  color: #1dc1fd;
+  font-weight: 600;
+}
+
+.footer>.container a:hover {
+  color: #16a4d6;
+}
+
+.media {
+  display: flex;
+  gap: 1.6rem;
+}
+
+.media p {
+  margin-right: 1.6rem;
+}
+
+@media (max-width: 999.98px) {
+  main .container .intelligence-representation {
+    display: none;
+  }
+}
+
+/* Medium screens */
+
+@media all and (max-width: 800px) {
+  main .container .steps {
+    padding: 50px 40px;
+  }
+  .nav {
+    padding: 0px 50px;
+  }
+}
+
+/* Small screens */
+
+@media all and (max-width: 500px) {}

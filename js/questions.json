@@ -1,0 +1,358 @@
+{
+  "sections": [
+    {
+      "section": "A",
+      "questions": [
+        {
+          "title": "Me es fácil expresarme en forma escrita"
+        },
+        {
+          "title": "Me es fácil seguir una lectura o un artículo escrito, es decir, entenderlo sin necesidad de tener que volver a leer"
+        },
+        {
+          "title": "Tengo un vocabulario amplio, sé el significado de muchas palabras y no debo preguntar por su contexto para poder entender lo que me dicen"
+        },
+        {
+          "title": "Soy bueno explicando cosas a otros, me hago entender con facilidad"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "questions": [
+        {
+          "title": "Me gusta trabajar con números"
+        },
+        {
+          "title": "Soy bueno al elegir patrones numéricos, todo lo relacionado con lógica matemática y viceversa"
+        },
+        {
+          "title": "Disfruto la resolución de problemas matemáticos"
+        },
+        {
+          "title": "Me gusta llevar a cabo una tarea en forma lógica y ordenada"
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "questions": [
+        {
+          "title": "Soy bueno en la lectura de mapas y cosas como ubicarme con coordenadas de latitud, longitud, entre otras cosas"
+        },
+        {
+          "title": "Encuentro fácil armar rompecabezas que involucran rotar formas"
+        },
+        {
+          "title": "Puedo retener una imagen en mi mente (memoria visual)"
+        },
+        {
+          "title": "Encuentro útiles los diagramas y gráficas para comprender la información"
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "questions": [
+        {
+          "title": "Puedo recordar una melodía fácilmente"
+        },
+        {
+          "title": "Puedo tocar los instrumentos musicales con facilidad"
+        },
+        {
+          "title": "Puedo diferenciar los instrumentos en una pieza orquestal fácilmente"
+        },
+        {
+          "title": "Disfruto escuchar o componer música"
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "questions": [
+        {
+          "title": "Disfruto realizar actividades con mis manos, tales como: pintar, crear, rasgar, desbaratar, entre otras cosas."
+        },
+        {
+          "title": "Debo estar en movimiento constantemente"
+        },
+        {
+          "title": "Disfruto la actividad física y tengo buena coordinación"
+        },
+        {
+          "title": "Prefiero “aprender haciendo” que la lectura y la atención a explicaciones"
+        }
+      ]
+    },
+    {
+      "section": "F",
+      "questions": [
+        {
+          "title": "Se me hace fácil clasificar la flora, la fauna y los fenómenos naturales que me rodean"
+        },
+        {
+          "title": "Me gusta coleccionar plantas, insectos, rocas y demás cosas relacionadas con la naturaleza"
+        },
+        {
+          "title": "Soy bueno descubriendo patrones en la naturaleza (por ejemplo: saber sobre el clima con solo ver las nubes y cosas parecidas)"
+        },
+        {
+          "title": "Tengo conciencia de la necesidad de la protección ambiental, y además se me da muy fácil aplicarla en mi diario vivir"
+        }
+      ]
+    },
+    {
+      "section": "G",
+      "questions": [
+        {
+          "title": "Se me facilita el trabajo en equipo"
+        },
+        {
+          "title": "Tengo gran empatía con otras personas"
+        },
+        {
+          "title": "Disfruto relacionarme con otras personas y se me facilita hacer amigos"
+        },
+        {
+          "title": "Tengo mucho poder de convencimiento y soy un líder nato"
+        }
+      ]
+    },
+    {
+      "section": "H",
+      "questions": [
+        {
+          "title": "Estoy auto-motivado (yo mismo me ánimo a realizar algo y no debo esperar a que alguien más me motive)"
+        },
+        {
+          "title": "Soy bueno controlando mis estados de ánimo"
+        },
+        {
+          "title": "Puedo trabajar bien en equipo pero trabajo mejor sólo"
+        },
+        {
+          "title": "Estoy consciente de mi propio comportamiento y como este afecta a otros"
+        }
+      ]
+    }
+  ],
+  "intelligences": [
+    {
+      "section": "A",
+      "name": "Verbal / Lingüística",
+      "associated_academic_programs": [
+        {
+          "name": "Líderes políticos"
+        },
+        {
+          "name": "Oradores (expositores)"
+        },
+        {
+          "name": "Escritores"
+        },
+        {
+          "name": "Periodistas"
+        },
+        {
+          "name": "Comunicadores Sociales"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "name": "Lógica / Matemática",
+      "associated_academic_programs": [
+        {
+          "name": "Ingeniería de software"
+        },
+        {
+          "name": "Ingeniería Mecatrónica"
+        },
+        {
+          "name": "Ingeniería Industrial"
+        },
+        {
+          "name": "Matemáticas"
+        },
+        {
+          "name": "Contaduría pública"
+        },
+        {
+          "name": "Científicos"
+        },
+        {
+          "name": "Economistas"
+        },
+        {
+          "name": "Filósofos"
+        },
+        {
+          "name": "Medicina (áreas de la salud)"
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "name": "Visual / Espacial",
+      "associated_academic_programs": [
+        {
+          "name": "Artistas"
+        },
+        {
+          "name": "Fotógrafos"
+        },
+        {
+          "name": "Arquitectos"
+        },
+        {
+          "name": "Diseñadores visuales"
+        },
+        {
+          "name": "Publicistas"
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "name": "Musical / Rítmica",
+      "associated_academic_programs": [
+        {
+          "name": "Músicos"
+        },
+        {
+          "name": "Compositores"
+        },
+        {
+          "name": "Analistas musicales"
+        },
+        {
+          "name": "Directores de orquesta"
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "name": "Corporal / Kinestésica",
+      "associated_academic_programs": [
+        {
+          "name": "Publicidad"
+        },
+        {
+          "name": "Diseño Visual"
+        },
+        {
+          "name": "Escultores"
+        },
+        {
+          "name": "Cirujanos"
+        },
+        {
+          "name": "Actuación"
+        },
+        {
+          "name": "Baile"
+        },
+        {
+          "name": "Deportes"
+        },
+        {
+          "name": "Constructores"
+        },
+        {
+          "name": "Trabajos manuales"
+        },
+        {
+          "name": "Teatro"
+        },
+        {
+          "name": "Danza"
+        }
+      ]
+    },
+    {
+      "section": "F",
+      "name": "Naturalista",
+      "associated_academic_programs": [
+        {
+          "name": "Biología"
+        },
+        {
+          "name": "Ingenieríá Industrial"
+        },
+        {
+          "name": "Ingeniería Ambiental"
+        },
+        {
+          "name": "Ingeniería Agrónoma"
+        },
+        {
+          "name": "Medicina Veterinaria"
+        },
+        {
+          "name": "Zootecnistas"
+        },
+        {
+          "name": "Zoólogos"
+        },
+        {
+          "name": "Naturalistas"
+        }
+      ]
+    },
+    {
+      "section": "G",
+      "name": "Inter-personal",
+      "associated_academic_programs": [
+        {
+          "name": "Psicólogos"
+        },
+        {
+          "name": "Trabajadores sociales"
+        },
+        {
+          "name": "Terapeutas"
+        },
+        {
+          "name": "Docentes"
+        },
+        {
+          "name": "Abogados"
+        },
+        {
+          "name": "Policías"
+        },
+        {
+          "name": "Administrador de empresas"
+        },
+        {
+          "name": "Administrador de Negocios Internacionales"
+        },
+        {
+          "name": "Directores"
+        },
+        {
+          "name": "Gerentes"
+        }
+      ]
+    },
+    {
+      "section": "H",
+      "name": "Intra-personal",
+      "associated_academic_programs": [
+        {
+          "name": "Administrador de Empresas"
+        },
+        {
+          "name": "Gerentes"
+        },
+        {
+          "name": "Ingeniería de Software"
+        },
+        {
+          "name": "Cumplimiento y planteamiento de metas"
+        }
+      ]
+    }
+  ]
+}
